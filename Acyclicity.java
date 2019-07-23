@@ -1,6 +1,18 @@
 /**
 *For each graph, output "1" if the graph is acyclic and "-1" otherwise.
 *
+*Sample input: 2
+*
+*2 1
+*1 2
+*
+*4 4
+*4 1
+*1 2
+*2 3
+*3 1
+*
+*Output: 1, -1
 */
 
 import edu.princeton.cs.algs4.EdgeWeightedDigraph ;
