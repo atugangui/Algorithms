@@ -2,6 +2,16 @@
 *For each array A[1..n], output three different indices 1≤p<q<r≤n such that 
 *A[p]+A[q]+A[r]=0 if exist, and "-1" otherwise.
 *
+*Sample dataset: 4 5
+*2 -3 4 10 5
+*8 -6 4 -2 -8
+*-5 2 3 2 -4
+*2 4 -5 6 8
+*
+*Output: -1
+*1 2 4
+*1 2 3
+*-1
 */
 
 import java.util.Arrays;
